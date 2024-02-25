@@ -18,24 +18,24 @@
 </h2>
 <div>
     <p>
-    	<img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=typescript&label=Typescript&labelColor=0a0a0a&color=0a0a0a">
-    	<img height="30px" src="https://img.shields.io/badge/-Node.js-0a0a0a?style=flat-square&logo=node.js">
-    	<img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=mysql&label=MySQL&labelColor=0a0a0a&color=0a0a0a" >
-        <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=postgresql&label=PostgreSQL&labelColor=0a0a0a&color=0a0a0a" >
-        <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=auth0&label=Auth0&labelColor=0a0a0a&color=0a0a0a" >
-        <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=docker&label=Docker&labelColor=0a0a0a&color=0a0a0a" >
-        <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=postman&label=Postman&labelColor=0a0a0a&color=0a0a0a" >
-        <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=awslambda&label=AWS%20Lambda&labelColor=0a0a0a&color=0a0a0a" >
-        <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=amazons3&label=Amazon%20S3&labelColor=0a0a0a&color=0a0a0a" >
-        <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=amazonrds&label=Amazon%20RDS&labelColor=0a0a0a&color=0a0a0a" >
-        <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=amazonapigateway&label=Amazon%20API%20Gateway&labelColor=0a0a0a&color=0a0a0a" >
-    	<img height="30px" src="https://img.shields.io/badge/-JS-0a0a0a?style=flat-square&logo=javascript" >
-    	<img height="30px" src="https://img.shields.io/badge/-React-0a0a0a?style=flat-square&logo=react" >
-    	<img height="30px" src="https://img.shields.io/badge/-React Router-0a0a0a?style=flat-square&logo=react-router" >
-    	<img height="30px" src="https://img.shields.io/badge/-Redux Toolkit-0a0a0a?style=flat-square&logo=redux" >
-    	<img height="30px" src="https://img.shields.io/badge/-Material UI-0a0a0a?style=flat-square&logo=mui" >
-    	<img height="30px" src="https://img.shields.io/badge/-Jest-0a0a0a?style=flat-square&logo=jest" >
-        <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=tailwindcss&label=TailwindCSS&labelColor=0a0a0a&color=0a0a0a" >
+    	<img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=typescript&label=Typescript&labelColor=0a0a0a&color=0a0a0a">
+    	<img height="25px" src="https://img.shields.io/badge/-Node.js-0a0a0a?style=flat-square&logo=node.js">
+    	<img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=mysql&label=MySQL&labelColor=0a0a0a&color=0a0a0a" >
+        <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=postgresql&label=PostgreSQL&labelColor=0a0a0a&color=0a0a0a" >
+        <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=auth0&label=Auth0&labelColor=0a0a0a&color=0a0a0a" >
+        <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=docker&label=Docker&labelColor=0a0a0a&color=0a0a0a" >
+        <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=postman&label=Postman&labelColor=0a0a0a&color=0a0a0a" >
+        <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=awslambda&label=AWS%20Lambda&labelColor=0a0a0a&color=0a0a0a" >
+        <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=amazons3&label=Amazon%20S3&labelColor=0a0a0a&color=0a0a0a" >
+        <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=amazonrds&label=Amazon%20RDS&labelColor=0a0a0a&color=0a0a0a" >
+        <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=amazonapigateway&label=Amazon%20API%20Gateway&labelColor=0a0a0a&color=0a0a0a" >
+    	<img height="25px" src="https://img.shields.io/badge/-JS-0a0a0a?style=flat-square&logo=javascript" >
+    	<img height="25px" src="https://img.shields.io/badge/-React-0a0a0a?style=flat-square&logo=react" >
+    	<img height="25px" src="https://img.shields.io/badge/-React Router-0a0a0a?style=flat-square&logo=react-router" >
+    	<img height="25px" src="https://img.shields.io/badge/-Redux Toolkit-0a0a0a?style=flat-square&logo=redux" >
+    	<img height="25px" src="https://img.shields.io/badge/-Material UI-0a0a0a?style=flat-square&logo=mui" >
+    	<img height="25px" src="https://img.shields.io/badge/-Jest-0a0a0a?style=flat-square&logo=jest" >
+        <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=tailwindcss&label=TailwindCSS&labelColor=0a0a0a&color=0a0a0a" >
     </p>
 </div>
 
@@ -44,10 +44,10 @@
     Familiar with
 </h2>
 <p align="center">
-    <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=androidstudio&label=AndroidStudio&labelColor=0a0a0a&color=0a0a0a">
-    <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=kotlin&label=Kotlin&labelColor=0a0a0a&color=0a0a0a">
-    <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=xcode&label=XCode&labelColor=0a0a0a&color=0a0a0a">
-    <img height="30px" src="https://img.shields.io/badge/-html?style=flat-square&logo=swift&label=Swift&labelColor=0a0a0a&color=0a0a0a">
+    <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=androidstudio&label=AndroidStudio&labelColor=0a0a0a&color=0a0a0a">
+    <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=kotlin&label=Kotlin&labelColor=0a0a0a&color=0a0a0a">
+    <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=xcode&label=XCode&labelColor=0a0a0a&color=0a0a0a">
+    <img height="25px" src="https://img.shields.io/badge/-html?style=flat-square&logo=swift&label=Swift&labelColor=0a0a0a&color=0a0a0a">
 </p>
 
 <h2>
