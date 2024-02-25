@@ -36,17 +36,19 @@
     	<img src="https://img.shields.io/badge/-Jest-0a0a0a?style=flat-square&logo=jest" height="25px">
         <img src="https://img.shields.io/badge/-html?style=flat-square&logo=tailwindcss&label=TailwindCSS&labelColor=0a0a0a&color=0a0a0a" height="25px">
     </p>
-    <br>
-    <h3 align="center">
-        <img src="assets/gif/batman_think.gif" width="15">
+</div>
+
+<h3 align="center">
+    <img src="assets/gif/batman_think.gif" width="15">
     Familiar with
-        <img src="assets/gif/batman_think.gif" width="15">
-    </h3>
+    <img src="assets/gif/batman_think.gif" width="15">
+</h3>
+<p align="center">
     <img src="https://img.shields.io/badge/-html?style=flat-square&logo=androidstudio&label=AndroidStudio&labelColor=0a0a0a&color=0a0a0a" height="25px">
     <img src="https://img.shields.io/badge/-html?style=flat-square&logo=kotlin&label=Kotlin&labelColor=0a0a0a&color=0a0a0a" height="25px">
     <img src="https://img.shields.io/badge/-html?style=flat-square&logo=xcode&label=XCode&labelColor=0a0a0a&color=0a0a0a" height="25px">
     <img src="https://img.shields.io/badge/-html?style=flat-square&logo=swift&label=Swift&labelColor=0a0a0a&color=0a0a0a" height="25px">
-</div>
+</p>
 
 <h2 align="center">
     <img src="assets/gif/dc_call.gif" width="25">
